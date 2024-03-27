@@ -15,7 +15,7 @@ Read a bit more to get to know me
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,linux,ubuntu,git,github&perline=4)](https://skillicons.dev)
 
 ### Currently I am Learning
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,linux,ubuntu,git,github&perline=4)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,solidity,ai,linux,js,go,sql,docker&perline=4)](https://skillicons.dev) 
 <br>
 from [Boot.dev] (https://www.boot.dev/tracks/backend)
 
