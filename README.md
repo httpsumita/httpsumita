@@ -1,8 +1,10 @@
 ## Hey World 
-# Sumita here!!
+# Sumita here!! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I am an aspiring Back-end dev a Blockchain enthusiast!
+I am an aspiring Back-end dev a Blockchain enthusiast! 
+<br>
 Read a bit more to get to know me 
+<br>
 <img
   src="/path/to/img.jpg"
   alt="Image"
