@@ -9,13 +9,7 @@ Currently,
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvJES2mxk3o-KocsuOqqYCt9Ll4ESRwb/view?usp=sharing)
 <br>
 Read a bit more to get to know me 
-<img
-  align='right'
-  src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"
-  alt="Image"
-  title="Optional title"
-  style=" max-width: 10px">
-  <br>
+
 ### My tech stack goes like ->
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,linux,ubuntu,git,github)](https://skillicons.dev) 
@@ -32,7 +26,7 @@ from [Boot.dev](https://www.boot.dev/tracks/backend)
 - Mental Health
 - Gym
   
-🔗 &nbsp;**Connect with me**
+### 🔗 &nbsp; Connect with me
 <p align="left">
 <a href="https://twitter.com/SumitaPathak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumita-pathak-91699a215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
