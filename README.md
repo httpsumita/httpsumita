@@ -15,17 +15,17 @@ Read a bit more to get to know me
   src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"
   alt="Image"
   title="Optional title"
-  style="display: inline-block; margin: 10% auto; max-width: 120px">
+  style="display: inline-block; margin: 0 auto; max-width: 10px">
   <br>
 ### My tech stack goes like ->
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,linux,ubuntu,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,linux,ubuntu,git,github)](https://skillicons.dev) 
 
 ### Currently I am Learning
 [![My Skills](https://skillicons.dev/icons?i=py,solidity,ai,linux,js,go,docker)](https://skillicons.dev) 
 <br>
 from [Boot.dev](https://www.boot.dev/tracks/backend)
 
-# Ask me anything about
+# Ask me anything about -> c,java,py,solidity,ai,linux,ubuntu,git,github
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/SumitaPathak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
