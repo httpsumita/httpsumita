@@ -6,7 +6,7 @@ So hey, I am an aspiring Back-end dev  & a Blockchain enthusiast!
 Currently,
 <br>
 - 🔭 &nbsp; I’m currently working with a  **startup merging blockchain with the film industry**
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvJES2mxk3o-KocsuOqqYCt9Ll4ESRwb/view?usp=sharing))
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvJES2mxk3o-KocsuOqqYCt9Ll4ESRwb/view?usp=sharing)
 <br>
 Read a bit more to get to know me 
 <br>
@@ -15,7 +15,7 @@ Read a bit more to get to know me
   src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"
   alt="Image"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 120px">
+  style="display: inline-block; margin: 10% auto; max-width: 120px">
   <br>
 ### My tech stack goes like ->
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,linux,ubuntu,git,github)](https://skillicons.dev)
