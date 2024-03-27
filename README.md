@@ -7,7 +7,7 @@ Read a bit more to get to know me
 <br>
 <img
   align:right
-  src="[/path/to/img.jpg](https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif)"
+  src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"
   alt="Image"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
