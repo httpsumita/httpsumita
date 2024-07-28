@@ -35,6 +35,7 @@ from [Boot.dev](https://www.boot.dev/tracks/backend)
 # Badges 
 <br>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+ <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsumita&theme=tokyonight&show_icons=true&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
