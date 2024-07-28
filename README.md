@@ -34,7 +34,7 @@ from [Boot.dev](https://www.boot.dev/tracks/backend)
 
 # Badges 
 <br>
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/LYAaFwQkR2SYHTnPEkRE0g?identity__email=sumitapathak.bg%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LYAaFwQkR2SYHTnPEkRE0g/image"></a><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsumita&theme=tokyonight&show_icons=true&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
