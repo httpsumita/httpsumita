@@ -12,7 +12,7 @@ Read a bit more to get to know me
 
 ### My tech stack goes like ->
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,linux,ubuntu,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,postman,linux,ubuntu,git,github)](https://skillicons.dev) 
 
 ### Currently I am Learning
 [![My Skills](https://skillicons.dev/icons?i=py,ai,js,go,docker,flask,ts)](https://skillicons.dev) 
