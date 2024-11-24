@@ -26,6 +26,7 @@ from [Boot.dev](https://www.boot.dev/tracks/backend)
 <!-- <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /> -->
  <img src="1.png" width="105px" height="105px" />
+ <img src="PostmanBadge" width="105px" height="105px" />
 </div>
 
 # Ask me anything about -> 
