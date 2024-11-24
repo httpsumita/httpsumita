@@ -5,17 +5,17 @@ So hey, I am an aspiring Back-end dev  & a Blockchain enthusiast!
 <br> <br>
 Currently,
 <br>
-- 🔭 &nbsp; I’m currently working with a  **startup merging blockchain with the film industry**
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvJES2mxk3o-KocsuOqqYCt9Ll4ESRwb/view?usp=sharing)
+- 🔭 &nbsp; I’m looking for opportunities in  **backend**
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_ENN0tp3Jy6SvtjFLv7ln2X9jRM2vIfD/view?usp=sharing)
 <br>
 Read a bit more to get to know me 
 
 ### My tech stack goes like ->
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,solidity,ai,postman,linux,ubuntu,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,django,solidity,tailwind,ai,postman,linux,ubuntu,git,github)](https://skillicons.dev) 
 
 ### Currently I am Learning
-[![My Skills](https://skillicons.dev/icons?i=py,ai,js,go,docker,flask,ts)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ai,js,go,docker,flask,ts)](https://skillicons.dev) 
 <br>
 from [Boot.dev](https://www.boot.dev/tracks/backend)
 
@@ -23,13 +23,13 @@ from [Boot.dev](https://www.boot.dev/tracks/backend)
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
 
 <br>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
- <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+<!-- <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+ <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /> -->
  <img src="1.png" width="105px" height="105px" />
 </div>
 
 # Ask me anything about -> 
-- Blockchain
+- Backend
 - DSA
 - Psychology
 - Mental Health
@@ -43,5 +43,5 @@ from [Boot.dev](https://www.boot.dev/tracks/backend)
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsumita&theme=tokyonight&show_icons=true&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![Sumita's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsumita&theme=tokyonight&show_icons=true&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
