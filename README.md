@@ -1,12 +1,12 @@
 
 # Sumita here!! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-So hey, I am an aspiring Back-end dev  & a Blockchain enthusiast! 
+So hey, I am an aspiring Back-end dev ! 
 <br> <br>
 Currently,
 <br>
 - 🔭 &nbsp; I’m looking for opportunities in  **backend**
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_ENN0tp3Jy6SvtjFLv7ln2X9jRM2vIfD/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jG73wP0V4Mz5kXv_diakROVLqU64gBY5/view?usp=sharing)
 <br>
 Read a bit more to get to know me 
 
